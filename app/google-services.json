@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933957479123",
+    "project_id": "flagquiz-90088",
+    "storage_bucket": "flagquiz-90088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933957479123:android:9583e9879ee16a63e78226",
+        "android_client_info": {
+          "package_name": "com.example.flagsquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933957479123-s6t7i46q56gfvciqt7hqlkk5eqtnf9g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-02yc_cChpDJzeWpsYoHOI5yYuUMdpus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933957479123-s6t7i46q56gfvciqt7hqlkk5eqtnf9g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
